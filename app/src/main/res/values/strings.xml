@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="avatar">Avatar</string>
+    <string name="status">Status</string>
+    <string name="unread_messages">Unread messages</string>
+    <string name="year1">%d год,</string>
+    <string name="year2">%d года,</string>
+    <string name="year3">%d лет,</string>
+    <string name="similarity">%d%%</string>
+    <string name="unread_100_and_more_messages">99+</string>
+    <string name="dialog_wifi_title">There is no network connection</string>
+    <string name="dialog_wifi_message">Do you want to go to the settings to turn on Wi-Fi?</string>
+    <string name="dialog_wifi_positive_button">Yes</string>
+    <string name="dialog_wifi_negative_button">No</string>
+    <string name="error_get_users">Something went wrong. Please try again</string>
+    <string name="today">Сегодня, </string>
+    <string name="yesterday">Вчера, </string>
+</resources>

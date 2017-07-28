@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppCompatActionBarStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@color/toolbarTextColor</item>
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:background">@color/dialogColorBackground</item>
+        <item name="android:textColorPrimary">@color/dialogTextColorPrimary</item>
+        <item name="colorAccent">@color/dialogColorAccent</item>
+    </style>
+
+</resources>
